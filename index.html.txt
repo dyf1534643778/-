@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>嘎嘎会议</title>
+    <style>
+        body { text-align: center; font-family: Arial; padding: 20px; }
+        video { max-width: 100%; height: auto; }
+    </style>
+</head>
+<body>
+    <h1>嘎嘎会议</h1>
+    <video controls>
+        <source src="myvideo.mp4" type="video/mp4">
+        您的浏览器不支持视频播放。
+    </video>
+</body>
+</html>
